@@ -7,7 +7,7 @@ public class CodeOne {
       //  System.out.println("It worked");
 
     // variable
-    int nums = -12;
+    int nums = 12;
     // if statement
     if(nums > 0) {
         System.out.println("We Up!");

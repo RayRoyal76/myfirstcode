@@ -7,7 +7,7 @@ public class CodeTwo {
        // for loop statement
         for(int i = 0; i < nums.length; i++){
 
-            // count to 12
+            // counting
         System.out.println(nums[i] = i + 1);
     }
 }
